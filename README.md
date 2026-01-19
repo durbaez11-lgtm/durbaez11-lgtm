@@ -16,11 +16,13 @@ I am a passionate software developer focused on building modern web experiences 
 
 ### 📂 Featured Projects
 
-#### 💹 [VzlaCurrency React](https://github.com/your-username/project-repo)
+#### 💹 [easy.exchange](https://github.com/durbaez11-lgtm/easy-exchange)
 **Real-time Currency Converter (VES to USD/EUR)**
-* **The Project:** A reactive web application designed to handle currency conversions between Venezuelan Bolívares and international currencies using real-time API data.
-* **Key Features:** Fast UI updates, precise calculations, and a responsive design tailored for mobile and desktop users.
-* **Tech Stack:** React.js, Tailwind CSS, REST API integration.
+* **The Project**: A reactive web application designed to handle currency conversions between Venezuelan Bolívares and international currencies using real-time API data.
+* **Key Features**: Fast UI updates, precise calculations, and a responsive design tailored for mobile and desktop users.
+* **Tech Stack**: React.js, CSS3, REST API integration.
+
+⚠️ Note: The "Binance Rate" feature may experience connectivity issues or appear as "Offline" due to local ISP proxy blocks affecting external API requests in the region.
 
 #### 📥 [PyMedia Downloader](https://github.com/your-username/project-repo)
 **High-Performance Multimedia Downloader**
