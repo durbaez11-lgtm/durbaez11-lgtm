@@ -30,6 +30,11 @@ I am a passionate software developer focused on building modern web experiences 
     * **Auto-Refresh:** Clears previous metadata and links immediately after a successful download.
 * **Tech Stack:** Python, FFmpeg, Automation Scripting.
 
+#### 📊 [BVC-Insight](https://github.com/durbaez11-lgtm/BVC-Insight)
+**Stock Market Dashboard for Caracas Stock Exchange (BVC)**
+* **The Project:** Full-stack application to monitor and analyze over 40 listed companies in Venezuela.
+* **Tech Stack:** React.js, FastAPI (Python), Pandas, and Recharts.
+
 ---
 
 ### 🛠️ Currently Learning & Improving
