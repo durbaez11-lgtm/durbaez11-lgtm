@@ -24,7 +24,7 @@ I am a passionate software developer focused on building modern web experiences 
 
 ⚠️ Note: The "Binance Rate" feature may experience connectivity issues or appear as "Offline" due to local ISP proxy blocks affecting external API requests in the region.
 
-#### 📥 [PyMedia Downloader](https://github.com/your-username/project-repo)
+#### 📥 [PyStreamDownloader](https://github.com/durbaez11-lgtm/PyStreamDownloader)
 **High-Performance Multimedia Downloader**
 * **The Project:** A Python-based tool for downloading and converting video/audio content (MP3/MP4).
 * **Key Features:** * **Persistent Pathing:** Remembers your preferred download folder for future sessions.
