@@ -1,80 +1,91 @@
 <div align="center">
 
-# Hi, I'm Daniel Urbáez 👋
-### Computer Science Student @ Universidad de Oriente (UDO) 🇻🇪
+# ✦ Daniel E. Urbáez ✦
+### Computer Science Student @ Universidad de Oriente (UDONE) 🇻🇪
+*Full-Stack Development • Desktop Engineering • Game Systems & Shaders • Automation*
 
-<p align="center">
-  <em>Building performant backends, responsive web interfaces, custom tools & game systems.</em>
-</p>
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://durbaez11-lgtm.vercel.app)
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-portafolio--daniel--phi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-daniel-phi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-uma-bba0113a7/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durbaez11@gmail.com)
+[![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durbaez11@gmail.com)
 
 </div>
 
 ---
 
-### ⚡ About Me
+### 🧠 `whoami.cs`
 
-- 🎓 **Undergrad**: 4th-year Computer Science student at **UDONE** (Margarita Island, Venezuela).
-- ⚙️ **Focus**: Backend architectures, REST APIs, desktop automation, and clean component systems.
-- 🎨 **Creative Side**: Pixel art, game modding mechanics, and HLSL shaders.
-- 🛠️ **Philosophy**: First-principles problem solving, high efficiency, and building tools from scratch when standard solutions fall short.
+```csharp
+namespace DeveloperProfile
+{
+    public class DanielUrbaez
+    {
+        public string Location   => "Margarita Island, Venezuela 🏝️";
+        public string Education  => "B.S. in Computer Science (Licenciatura en Informática) @ UDONE";
+        
+        public string[] Craft    => new[] {
+            "Full-Stack Web Apps & RESTful Architectures",
+            "Native Desktop Utilities & Media Automation Tools",
+            "Game Modding (C# / tModLoader), Custom UI & HLSL Shaders",
+            "Real-Time API Scrapers & Custom Discord Bots"
+        };
 
----
+        public string Philosophy => "First-principles thinking: understand the math, " +
+                                    "optimize for constraints, and build custom tools from scratch.";
 
-### 💻 Stack & Tooling
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend & Systems</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-    </td>
-  </tr>
-</table>
+        public string[] OffScreen => new[] {
+            "🏋️ Home Strength Training & Hypertrophy",
+            "🎮 Strategy & God Sims (HoI4, WorldBox, WarEra) + Modded Terraria",
+            "🎨 Pixel Art & Orchestral Boss Themes",
+            "📺 Anime (Madoka Magica — Homura did nothing wrong, Lain, AoT)",
+            "🐈 Staff Engineer to Tito (rescued orange cat)"
+        };
+    }
+}
+```
 
 ---
 
-### 🌐 Selected Work & Projects
+### 🛠️ Tech Stack & Tooling
 
-> 🚀 Want to see my production apps, backend systems, and desktop utilities in action?
-> 
-> Check out my full interactive portfolio with live demos, case studies, and codebases:  
-> **👉 [durbaez11-lgtm.vercel.app](https://durbaez11-lgtm.vercel.app)**
+<div align="center">
+
+#### **Languages & Core**
+[![My Skills](https://skillicons.dev/icons?i=cs,py,ts,js,lua,godot,html,css&theme=dark)](https://portafolio-daniel-phi.vercel.app/)
+
+#### **Frontend, Backend & Databases**
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,dotnet,fastapi,nestjs,postgres,mysql,sqlite&theme=dark)](https://portafolio-daniel-phi.vercel.app/)
+
+#### **DevOps, IDEs & Workflow**
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,visualstudio,vscode,postman&theme=dark)](https://portafolio-daniel-phi.vercel.app/)
+
+</div>
+
+---
+
+### ⚡ What I Do Under the Hood
+
+* **🏗️ Systems & Backend:** Designing structured relational schemas (`PostgreSQL`, `MySQL`, `SQLite`) and building fast, modular APIs with `FastAPI`, `NestJS`, and `.NET`.
+* **🖥️ Desktop & Automation:** Crafting lightweight desktop software and CLI/GUI workflows in `Python` and `C#` (`WinForms`, `CustomTkinter`, `FFmpeg` pipelines) built to run smoothly without bloat.
+* **🎮 Game Dev & Graphics:** Engineering complex boss AI state machines, custom active UI systems, `HLSL` screen/sprite shaders, and original pixel art assets in `C#`.
+* **🌐 Modern Web:** Building responsive, high-contrast interfaces with `React`, `TypeScript`, `Vite`, and `Tailwind CSS`.
 
 ---
 
 <div align="center">
-  <sub>₍^. .^₎⟆ Tito approved this profile.</sub>
+
+### 🚀 Explore My Featured Work
+
+> Instead of cluttering this profile with repository links, I maintain all my case studies, live deployments, architecture breakdowns, and source links in my interactive portfolio:
+>
+> ### 👉 **[portafolio-daniel-phi.vercel.app](https://portafolio-daniel-phi.vercel.app/)** 👈
+
+<br />
+
+---
+
+<sub><i>"The mind is its own place, and in itself can make a heav'n of hell, a hell of heav'n."</i></sub><br />
+<sub><b>₍^. .^₎⟆ Tito approved this profile.</b></sub>
+
 </div>
